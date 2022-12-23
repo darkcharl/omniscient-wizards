@@ -1,0 +1,13 @@
+{
+  "mods": [
+    {
+      "modName": "OmnipotentWizards",
+      "UUID": "71839068-c19c-49cb-bbb6-efe1686ef0c7",
+      "folderName": "OmnipotentWizards",
+      "Description": "Omnipotent Wizards (can learn all spells)",
+      "version": "1",
+      "MD5": "",
+      "Group": "6e6e947b-99e3-4bf0-9d60-a9dd893a0df7"
+    }
+  ]
+}
