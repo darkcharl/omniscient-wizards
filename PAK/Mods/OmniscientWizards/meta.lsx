@@ -8,14 +8,14 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSWString" value="darkcharl"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSWString" value="Omnipotent Wizards (can learn all spells)"/>
-                    <attribute id="Folder" type="LSWString" value="OmnipotentWizards"/>
+                    <attribute id="Description" type="LSWString" value="Omniscient Wizards (can learn all spells)"/>
+                    <attribute id="Folder" type="LSWString" value="OmniscientWizards"/>
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSWString" value="OmnipotentWizards"/>
+                    <attribute id="Name" type="LSWString" value="OmniscientWizards"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>

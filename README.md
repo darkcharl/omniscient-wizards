@@ -1,4 +1,4 @@
-# Omnipotent Wizards Mod
+# Omniscient Wizards Mod
 
 Allows Wizards to learn spells from other classes scrolls.
 
