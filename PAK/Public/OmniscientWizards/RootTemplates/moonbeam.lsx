@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="309" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb7ad1cc0g554dg4c28g9a95g04d91126b9bf" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Moonbeam" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2a1d040c-a471-452e-9344-b7ced7bfa455" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Moonbeam" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725666" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.191031" />
+									<attribute id="Max" type="fvec3" value="0.0772219 0.1343031 0.2977137" />
+									<attribute id="Min" type="fvec3" value="-0.0772219 -0.00765489 -0.2977137" />
+									<attribute id="Radius" type="float" value="0.215493" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.191031" />
+									<attribute id="Max" type="fvec3" value="0.0772219 0.1343031 0.2977137" />
+									<attribute id="Min" type="fvec3" value="-0.0772219 -0.00765489 -0.2977137" />
+									<attribute id="Radius" type="float" value="0.215493" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.191031" />
+									<attribute id="Max" type="fvec3" value="0.0772219 0.1343031 0.2977137" />
+									<attribute id="Min" type="fvec3" value="-0.0772219 -0.00765489 -0.2977137" />
+									<attribute id="Radius" type="float" value="0.215493" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals" />
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_Moonbeam" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_Moonbeam" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

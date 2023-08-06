@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="309" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="17f828a4-5684-42dd-9f08-ff99ba43358a" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_Counterspell_DONOTUSE" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he5a64c5dg5a96g41e1g8ac6ga6440d9bb50b" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Counterspell" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Counterspell" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="SkillID" type="FixedString" value="Target_Counterspell" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="SpellId" type="FixedString" value="Target_Counterspell" />
+											<attribute id="Consume" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
